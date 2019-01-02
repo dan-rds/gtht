@@ -8,7 +8,7 @@ node_js:
 os: osx
 notifications:
   slack: tbdsillysailingpun:qq46CINpRzpkYPRbpRATa2xK
-    on_success: always
+
 
 matrix:
   include:
@@ -17,7 +17,6 @@ matrix:
       os: osx
       node_js: "8"
       install: true
-
     - stage: "Build"
       os: osx
       env: 
