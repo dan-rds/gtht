@@ -1,0 +1,15 @@
+{
+	"time": "Wed Jan 02 2019 12:40:57 GMT-0800 (PST)",
+	"nativePlatformStatus": "1",
+	"bundle": true,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "7808cbf9bcf06ec6a3d2e69ad5c1cf6174285fcaa33dc3c593b3ef858bf5e164",
+	"changesRequireBuildTime": "Wed Jan 02 2019 11:13:40 GMT-0800 (PST)",
+	"appFilesHashes": {
+		"/Users/daniel/projects/NSPlayground/app/app.css": "a6ad3c9bfc4fd0ab23ab2f71ab7aac3cef021cf3",
+		"/Users/daniel/projects/NSPlayground/app/app.js": "e9d21423d213fcd9dbaac577252c3b39f6174d70",
+		"/Users/daniel/projects/NSPlayground/app/components/HelloWorld.vue": "ac660c78b640bfa3d90fe1c0292a262ddd2c5117",
+		"/Users/daniel/projects/NSPlayground/app/package.json": "9ad7a179be15f8040f5656476c1c697bde98d89a"
+	}
+}
