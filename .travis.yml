@@ -3,11 +3,9 @@ before_script:
   - npm install -g npm
 
 node_js:
-  - "iojs"
   - "8"
 
 os: osx
 notifications:
   slack:
     on_success: always
-    
