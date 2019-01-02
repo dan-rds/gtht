@@ -7,7 +7,7 @@ node_js:
 
 os: osx
 notifications:
-  slack:
+  slack: tbdsillysailingpun:qq46CINpRzpkYPRbpRATa2xK
     on_success: always
 
 matrix:
