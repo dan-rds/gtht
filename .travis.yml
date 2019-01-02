@@ -10,3 +10,4 @@ os: osx
 notifications:
   slack:
     on_success: always
+    
