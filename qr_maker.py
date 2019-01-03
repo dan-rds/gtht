@@ -25,9 +25,10 @@ def main(tns_output_file):
 	img = Image.new('1', [32,32])
 	img.putdata(pic_matrix)
 	img.save('image.png',scale=2.0)
+
 if __name__ == "__main__":
 	if len(sys.argv) < 2:
-		print("Must specify filename. E.g., `qr_maker.py image.png`")
+		print("Must specify filename. E.g., `qr_maker.py filename.txt`")
 	main(sys.argv[1])
 
 	
