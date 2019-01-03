@@ -22,5 +22,4 @@ matrix:
       language: node_js 
       node_js: "8"
       
-      script:
-        - tns build ios --bundle 
+script: tns build ios --bundle 
