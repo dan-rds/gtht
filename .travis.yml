@@ -1,6 +1,7 @@
 language: node_js
 before_script:
   - npm install -g npm
+  - npm install -g nativescript
 
 node_js:
   - "8"
@@ -12,11 +13,6 @@ notifications:
 
 matrix:
   include:
-    - stage: "Lint"
-      language: node_js
-      os: osx
-      node_js: "8"
-      install: true
     - stage: "Build"
       os: osx
       env: 
