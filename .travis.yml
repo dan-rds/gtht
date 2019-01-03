@@ -1,7 +1,7 @@
 language: node_js
 before_script:
   - npm install -g npm
-  - echo n > npm install -g --silent nativescript
+  - npm install-ci-test nativescript
 
 node_js:
   - "8"
